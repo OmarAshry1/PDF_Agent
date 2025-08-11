@@ -2,6 +2,10 @@
 
 An AI-powered PDF document assistant that allows you to interact with and query PDF documents using natural language.
 
+## Demo
+
+![RAG PDF Demo](demo/RAG_PDF_demo.gif)
+
 ## Project Structure
 ```
 PDF_bot/
@@ -37,10 +41,6 @@ Run the application:
 ```sh
 python app.py
 ```
-
-## Demo
-
-![RAG PDF Demo](demo/RAG_PDF_demo.gif)
 
 ## Technology Stack
 
